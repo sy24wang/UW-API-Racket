@@ -1,6 +1,6 @@
 # UW-API-Racket
 
-This is a collection of all the Racket programs I've during my first year
+This is a collection of all the Racket programs I've written during my first year
 
 Most of them are not part of any assignments, so feel free to use them
 
@@ -23,6 +23,6 @@ How to run from Linux:
 
 1. cd $directory
 2. >racket
-3. >(enter! "racket.rkt")
+3. >(enter! "racket.rkt")`
 4. Ctrl+D to send EOF and terminate
 
