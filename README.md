@@ -1,6 +1,6 @@
 # UW-API-Racket
 
-This is a collection of all the Racket programs I've written during my first year
+This is a collection of all the Racket programs I've written during my time at University of Waterloo
 
 Most of them are not part of any assignments, so feel free to use them
 
